@@ -1,7 +1,7 @@
 ![](https://github.com/dfilitto/DuckGame/blob/main/CONSTRUINDO%20UM%20JOGO%20ESTILO%20PLATAFORMA%20NO%20CONSTRUCT.jpg)
 # DUCK GAME
 
-Aprenda como programar na Unity construindo um incrível jogo no qual você deve coletar as frutas e evitar coletar os espinhos. Este projeto é indicado para quem esta começando no mundo do desenvolvimento de jogos.
+Aprenda como programar no Construct, GDevelop, Unity e como publicar seus jogos na plataforma Itch.io construindo um game estilo plataforma no qual você deve ajudar Duck encontrar sua amada esposa.
 
 Playlist do curso ensinando como criar o jogo no Construct: https://www.youtube.com/playlist?list=PLfvOpw8k80WpA5XNYh5pzSBe4yoLZlrH_
 
